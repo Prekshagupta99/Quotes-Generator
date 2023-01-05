@@ -1,0 +1,14 @@
+{
+  "name": "random-quote-express",
+  "version": "1.0.0",
+  "description": "my express server",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "preksha gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
